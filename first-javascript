@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <script type="text/javascript">
+      alert("Hello World!");
+      
+      var x='Hello';
+          y='World!';
+          documment.write(x + y);
+    </script>
+  </body>
+</html>
